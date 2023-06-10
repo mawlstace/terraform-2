@@ -1,0 +1,3 @@
+in instance.tf
+1- i just used count to create number of  instance 
+2- creating instance without vars.tf 

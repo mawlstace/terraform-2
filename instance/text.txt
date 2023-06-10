@@ -1,0 +1,5 @@
+ 1- in instance.tf first we chechk length instance_type to get number of instance that will be created
+ 2- in ami it takes first element on array of ami then the second element 
+ 3- same for instance_type 
+ 4- in tags i used count.index it will start with 0 so i added +1 
+

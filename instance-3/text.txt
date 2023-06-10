@@ -1,0 +1,1 @@
+in this example we used lookup to check ami depending on AWS_Region 
